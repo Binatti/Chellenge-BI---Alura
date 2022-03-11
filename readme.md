@@ -22,21 +22,11 @@ The dashboard is divided in three tabs. The first is the general information abo
 I focused in three things in this first level: 
 
  
-1. One button/area just for filters, so I could included a good numbers of filter without taking out space that I used only to show the visualization::
+1. One button/area just for filters, so I could included a good numbers of filter without taking out space that I used only to show the visualization
  
-!(https://www.dropbox.com/s/itpzpbfmwnbbar2/1.filtros.png?dl=0)  
+2.	The tooltip, that is a tool used to show more information about a specific data only when you pass your mouse on it
 
-!(https://www.dropbox.com/s/jxjvbqomwbsbtj0/2.%20filtro%20todo.png?dl=0)
- 
-2.	The tooltip, that is a tool used to show more information about a specific data only when you pass your mouse on it:
-
-!(https://www.dropbox.com/s/slu4lako0b1tn7v/3.%20tooltip1.png?dl=0)
-
-!(https://www.dropbox.com/s/ofmv5517yo6jj61/4.%20tooltip2.png?dl=0)
-
-3. Navigation between tabs using button:
-
-!(https://www.dropbox.com/s/xvy0fwwv5ckdbe7/5.%20botoes.png?dl=0)
+3. Navigation between tabs using button
 
 ### Results
 
@@ -44,7 +34,7 @@ I focused in three things in this first level:
 
 ## Second week: Alura Food (second level)
 
-### Challege
+### Challenge
 
 In the second week I worked with Alura Food. The challenge now was to work with .json format and create a dashboard to understanding how Indian food market was development in India. 
 
@@ -69,17 +59,12 @@ For this project I worked with MySQL to retrieve the Data Base and then linking 
 I didn’t have MySQL program so I download it and I watched some videos and a read some articles to learn how to use it. After this, I was able to create a database and import all the sql. files that Alura Skimo have made available to me. Now my data was ready to be export to Power BI and starting build my last dashboard. 
 
 For this, I created four tabs:
-1.	Intro tab, and in this area you can choose how you want to analyse and click then in the specific button (product; clients and employees; scenario analysis: 
 
-!(https://www.dropbox.com/s/op96u57igvx8r8m/6.%20area%20de%20menu.png?dl=0)
+1.	Intro tab, and in this area you can choose how you want to analyse and click then in the specific button (product; clients and employees; scenario analysis)
 
-2.	The second and third tab, I made a new table only for the measures to create some cards with some important KPI, as such as costs, commission, total sales turnover, and profit: 
+2.	The second and third tab, I made a new table only for the measures to create some cards with some important KPI, as such as costs, commission, total sales turnover, and profit
 
-!(https://www.dropbox.com/s/7rdmedwxo6zh68j/7.%20tabela%20de%20medidas.png?dl=0)
-
-3.	The last table was only to making scenario analysis, for this I use the tool “What if” that allow me to create some metrics to see what would happen to profit and total cost when we try to reduce cost by up to 30%:
-
-!(https://www.dropbox.com/s/420gnvbf8j7z0wc/8.%20analise%20de%20cenario.png?dl=0)
+3.	The last table was only to making scenario analysis, for this I use the tool “What if” that allow me to create some metrics to see what would happen to profit and total cost when we try to reduce cost by up to 30%
 
 ### Results
 
